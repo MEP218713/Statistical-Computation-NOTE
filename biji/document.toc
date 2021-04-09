@@ -1,0 +1,57 @@
+\contentsline {chapter}{\numberline {1}随机变量的生成方法}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}随机数生成}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}有限总体抽样}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}R中常见概率分布的随机生成函数}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}生成随机变量的逆变换法}{5}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}连续情形下的逆变换法}{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}离散情形下的逆变换法}{7}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}接受拒绝法}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.6}求和变换与混合}{12}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}卷积}{12}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}混合分布}{12}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}多元分布}{14}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}多元正态分布}{14}{subsection.1.7.1}%
+\contentsline {chapter}{\numberline {2}组合优化}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}难题和NP完备性}{16}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}P问题、NP问题、NPC问题、NP-hard问题}{16}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}多项式时间(polynomial time)}{16}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}确定性算法与非确定性算法}{17}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}规约/约化}{17}{subsubsection.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.1.4}P类问题、NP类问题、NPC问题、NP难问题}{17}{subsubsection.2.1.1.4}%
+\contentsline {subsection}{\numberline {2.1.2}AIC, BIC信息准则}{18}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}AIC}{18}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.2.2}BIC}{19}{subsubsection.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.3}AIC与BIC比较}{19}{subsubsection.2.1.2.3}%
+\contentsline {subsection}{\numberline {2.1.3}启发式算法（Heuristic Algorithm）}{19}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}启发式算法的定义}{19}{subsubsection.2.1.3.1}%
+\contentsline {section}{\numberline {2.2}局部搜索}{21}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}局部搜索--爬山法}{21}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}爬山法的变体形式}{22}{subsubsection.2.2.1.1}%
+\contentsline {subsection}{\numberline {2.2.2}随机初值的局部搜索(Random Starts Local Search) }{23}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}禁忌搜索算法（Tabu Search）}{27}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}算法概述:主要思路}{28}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}算法原理}{29}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}邻域}{29}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.3.2.2}候选集合和评价函数}{29}{subsubsection.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.3}禁忌对象和禁忌长度}{29}{subsubsection.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.2.4}特赦规则和记忆频率信息}{30}{subsubsection.2.3.2.4}%
+\contentsline {subsection}{\numberline {2.3.3}算法流程}{30}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}一种综合的禁忌算法}{30}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}模拟退火}{31}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}算法过程}{31}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.1}邻域和提案密度}{32}{subsubsection.2.4.1.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.2}冷却进度与收敛}{32}{subsubsection.2.4.1.2}%
+\contentsline {section}{\numberline {2.5}遗传算法}{33}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}遗传算法组成}{34}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}编码与解码}{34}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}个体与种群}{35}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}适应度函数}{35}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}遗传算子}{35}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.5.6}遗传算法流程}{36}{subsection.2.5.6}%
+\contentsline {chapter}{\numberline {3}EM算法}{37}{chapter.3}%
+\contentsline {section}{\numberline {3.1}简介}{37}{section.3.1}%
+\contentsline {section}{\numberline {3.2}预备知识}{37}{section.3.2}%
+\contentsline {section}{\numberline {3.3}EM算法详解}{37}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}问题示例}{37}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}EM算法推导流程}{38}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}EM算法流程}{40}{section.3.4}%
